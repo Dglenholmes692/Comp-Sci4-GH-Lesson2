@@ -1,3 +1,4 @@
-console.log("Hello");
-console.log("Goodbye");
-
+const printFuit = () =>{
+    console.log("Hello");
+    console.log("Goodbye");    
+}
